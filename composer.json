@@ -1,0 +1,22 @@
+{
+    "name": "ourcodeworld/clients-composer",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "David",
+            "email": "dmb@email.com",
+            "homepage": "http://yourhomepage-if-you-have.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ourcodeworld\\ClientsComposer\\": "src/"
+        }
+    }
+}
