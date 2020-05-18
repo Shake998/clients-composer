@@ -1,5 +1,5 @@
 {
-    "name": "Shake998/clients-composer",
+    "name": "shake998/clients-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Shake998\\ClientsComposer\\": "src/"
+            "shake998\\ClientsComposer\\": "src/"
         }
     }
 }
